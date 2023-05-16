@@ -1,5 +1,9 @@
 # deepstream-lidar-inference-app
 
+- jetson agx xavier 32GB EVM
+- deepstream-6.2
+- CUDA 11.4
+
 ## setup ENV
 
 ```bash
